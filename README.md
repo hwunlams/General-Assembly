@@ -7,4 +7,6 @@ With extensive data preparation efforts on the following tools:
 * Feature Extraction
 * Feature Engineering
 * Feature Selection
-* Principal Component Analysis 
+* Principal Component Analysis
+* Regularization for regression
+* KNN, SVM and Random forest algorithm
